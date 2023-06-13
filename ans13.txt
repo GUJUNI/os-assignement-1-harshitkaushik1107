@@ -30,6 +30,6 @@ fi
 
 output:-
 Enter query (cust_no/bill_no/cust_name):
-jay
-Bill information for jay:
-1,101,jay,mainagar,ahmedabad,380008,20102002,2011202
+harshit
+Bill information for harshit:
+1,11,harshit,bhat,gandhinagar,382428,46501246,46501246
