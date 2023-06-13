@@ -32,8 +32,8 @@ Enter filename:
 a6
     bye
 $ cat a6
-That's it, folks!
-T-shirt
-Habitat
+  Hello
+  There
+  Harshit
     bye
 */
