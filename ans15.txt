@@ -60,7 +60,7 @@ $ sh a15..sh                                                                    
 2_102-Aman_Lakhanpal-male-76-86-67-229-76.33
 3_103-krisha_Patel-female-89-76-90-255-85.00
 4_104-Sahil_Shaikh-male-77-87-98-262-87.33
-Male Count: 2
-Female Count: 2
+Male Count: 3
+Female Count: 1
 Pass Count: 4
 Fail Count:
