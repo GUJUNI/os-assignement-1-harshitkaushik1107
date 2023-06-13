@@ -68,5 +68,5 @@ Total sales: 739
 Product1 sales: 274
 Product2 sales: 227
 Product3 sales: 238
-Best salesman: Mr. Aman Lakhanpal (100)
-Worst salesman: Mr. Hardik Gaur (30)
+Best salesman: Mr. Aman Lakhanpal (274)
+Worst salesman: Mr. Hardik Gaur (227)
